@@ -1,6 +1,6 @@
 # LAB - 08
 
-## Project: Bearer Auth
+## Project: Auth-API
 
 ### Author: Kao Saelor
 
@@ -10,9 +10,9 @@ Using a "Bearer Token" to re-authenticate with a server following a successful l
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/CodingKao/bearer-auth/pulls)
+- [GitHub Actions ci/cd](https://github.com/CodingKao/auth-api/pulls?q=is%3Apr+is%3Aclosed)
 
-- [back-end prod server url](https://bearer-auth-hxkt.onrender.com/)
+- [back-end prod server url](https://auth-api-m7d7.onrender.com/)
 
 ### Collaborators
 
@@ -39,6 +39,6 @@ Clone repo, `npm i`, then run `nodemon` in the terminal
 
 To run tests, after running `npm i`, run the command `npm test`
 
-#### Lab 7 UML
+#### Lab 8 UML
 
-![Lab 7 UML image](./assets/bearerUML.png)
+![Lab 8 UML image](./assets/auth-api-UML.png)
