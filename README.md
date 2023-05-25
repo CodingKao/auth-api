@@ -6,7 +6,7 @@
 
 ### Problem Domain
 
-Using a "Bearer Token" to re-authenticate with a server following a successful login, or obtaining/generating a permanent key
+In this part of the Authentication Server project, we're adding Role Based Access Control (RBAC) using an Access Control List (ACL). This helps us control who can access what in a detailed way. We'll combine the auth-server and api-server into one to make sure only authorized users can use specific routes based on their permissions.
 
 ### Links and Resources
 
@@ -41,4 +41,4 @@ To run tests, after running `npm i`, run the command `npm test`
 
 #### Lab 8 UML
 
-![Lab 8 UML image](./assets/auth-api-UML.png)
+![Lab 8 UML image](./assets/auth-api-uml.png)
